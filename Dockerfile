@@ -1,6 +1,6 @@
 FROM centos:8 
 
-ENV PUPPET_VERSION="6.8.0-1" \
+ENV PUPPET_VERSION="6.12.1" \
 	SUMMARY="Platform for running puppet server $PUPPET_VERSION" \
 	DESCRIPTION="Puppet provides tools to automate managing your infrastructure. "
 
